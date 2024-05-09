@@ -1,0 +1,26 @@
+HTML tags:
+description
+b
+image
+div
+h2
+a
+button
+p
+br
+i
+
+5 CSS properties:
+text-align
+background color
+font
+image width
+image height
+color
+margin-left and margin-right
+padding
+outline
+transition
+
+I used Javascript to make an interactive accordion, like a drop down, for each different type of bike
+and I used bootstrap to make sure the page was responsive when it is shrinked to a small size.

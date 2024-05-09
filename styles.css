@@ -1,0 +1,66 @@
+b {
+    font-size: 80px;
+}
+#title {
+    color: MidnightBlue;
+    outline: 5px black;
+}
+body {
+    background-color: #E0FFFF;
+    font-family: "Courier New", monospace;
+}
+
+img {
+    width: 90%;
+    height: auto;
+}
+
+a {
+    font-size: 20px;
+    color: green;
+}
+
+.places_img {
+    width: 90%;
+    height: auto;
+}
+
+.pictures_img {
+    width: 60%;
+    height: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+description {
+    font-size: 20px;
+    color: grey;
+}
+
+.accordion {
+    background-color: lavender;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+
+.active, .accordion:hover {
+    background-color: #ccc;
+}
+
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+}
